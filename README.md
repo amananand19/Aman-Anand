@@ -1,6 +1,6 @@
 ![logo](https://github.com/amananand19/aman-anand/blob/main/Screenshot%20from%202024-05-21%2012-23-28.png)
 <h1 align="center">Hi 👋, My name is Aman Anand</h1>
-<h3 align="center">A passionate Frontend developer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amananand19&label=Profile%20views&color=0e75b6&style=flat" alt="amananand19" /> </p>
@@ -8,7 +8,7 @@
 I am a Computer Engineering Enthusiast, seeking to utilize my programming knowledge to innovate and gain knowledge and experience in the process. I originated from Madhubani, Bihar, India. I have been coding since 2020 .
 
 
-- 🌱 I’m currently doing coding based on language C++ in Data Structure.
+- 🌱 I’m completed projects Face Attendance Management System.
 
 - 👨‍💻 Click on Portfolio [https://amananand19.github.io/aman-anand.github.io/](https://amananand19.github.io/aman-anand.github.io/)
 - 📫 You can contact me at **amananandyaduwanshi1.0@gmail.com**
