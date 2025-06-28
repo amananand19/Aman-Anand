@@ -11,7 +11,7 @@ I am a Computer Engineering Enthusiast, seeking to utilize my programming knowle
 - 🌱 I’m completed projects Face Attendance Management System.
 
 - 👨‍💻 Click on Portfolio [https://amananand19.github.io/aman-anand.github.io/](https://amananand19.github.io/aman-anand.github.io/)
-- 📫 You can contact me at **amananandyaduwanshi1.0@gmail.com**
+- 📫 You can contact me at **anandaman920@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 <h3 align="left">Connect with me:</h3>
