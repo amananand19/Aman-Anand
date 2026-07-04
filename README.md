@@ -1,4 +1,4 @@
-![Aman Anand banner](./banner.png)
+![Aman Anand banner](./Screenshot from 2024-05-21 12-23-28.png)
 
 <h1 align="center">Hi 👋, I'm Aman Anand</h1>
 <h3 align="center">Software Engineer & Competitive Programmer from Bihar, India 🇮🇳</h3>
