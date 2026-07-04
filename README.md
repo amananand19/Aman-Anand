@@ -1,14 +1,13 @@
 ![logo](https://github.com/amananand19/aman-anand/blob/main/Screenshot%20from%202024-05-21%2012-23-28.png)
 
 <h1 align="center">Hi 👋, I'm Aman Anand</h1>
-<h3 align="center">Software Engineer & Competitive Programmer from Bihar, India 🇮🇳</h3>
+<h3 align="center">Software Engineer & Competitive Programmer from Kolkata, India 🇮🇳</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=amananand19&label=Profile%20views&color=0e75b6&style=flat" alt="amananand19" />
 <img src="https://img.shields.io/github/followers/amananand19?label=Followers&style=flat&color=0e75b6" alt="followers" />
-<img src="https://img.shields.io/badge/Location-Madhubani%2C%20Bihar-blue" alt="location" />
+<img src="https://img.shields.io/badge/Location-Kolkata%2C%20India-blue" alt="location" />
 </p>
 
 ## 🚀 About Me
@@ -64,19 +63,16 @@ I'm a Computer Engineering enthusiast, coding since 2020, passionate about build
 <a href="https://leetcode.com/u/amananand_19" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/></a>
 </p>
 
-## 📌 Featured Project
+## 📌 Projects
 
-**[Face Attendance Management System](https://github.com/amananand19)** — an automated attendance system using facial recognition to mark and track attendance without manual entry.
+**[Credit Card Transaction Dashboard]([https://github.com/amananand19](https://github.com/amananand19/Aman_Anudip/tree/main/Sprint1%20Project))** — Analyzed total credit card transactions and customer spending trends using interactive Power BI dashboards.
 
-> _Add more projects here as you build them — a short one‑line description plus a link goes a long way._
+**[Blinkit Sales Dashboard ]([https://github.com/amananand19/Aman_Anudip/tree/main/Project/Blinkit))** — Analyzed total credit card transactions and customer spending trends using interactive Power BI dashboards.
 
 ## 📫 Connect with Me
 
 <p align="left">
 <a href="https://linkedin.com/in/aman-anand" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
-<a href="https://facebook.com/anandaman" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/></a>
-<a href="https://instagram.com/amananand_12" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/></a>
-<a href="mailto:anandaman920@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40"/></a>
-</p>
+<a href="mailto:anandaman920@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" height="30" width="40"/></a>
 
 <p align="center"><i>Thanks for stopping by — feel free to explore my repos and reach out!</i></p>
